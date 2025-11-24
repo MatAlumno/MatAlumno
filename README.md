@@ -5,7 +5,7 @@
 ### <b>About Me</b>
 
 <p>
-I'm Matu, a student in the final stage of my technical formation at Instituto Técnico Renault.  
+I'm Mateo, a student in the final stage of my technical formation at Instituto Técnico Renault.  
 I have a solid foundation in programming and technology, with practical experience in <b>HTML</b>, <b>CSS</b>, <b>Java</b>, <b>Python</b>, <b>C++</b>, <b>MySQL</b>, <b>Linux</b>, and <b>Git/GitHub</b>.  
 I also work comfortably with frontend development and agile methodologies.
 </p>
@@ -24,8 +24,8 @@ I'm always open to collaborating, improving my skills, and taking on new challen
 
 <!-- Change “Matu618” to your real GitHub username -->
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Matu618&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matu618&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=MatAlumno&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatAlumno&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </tr>
 </table>
@@ -84,7 +84,6 @@ Important note: I know how to use these tools & languages, but I'm not a profess
 ### <u>🖥 Operating Systems</u>
 <br>
 
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
