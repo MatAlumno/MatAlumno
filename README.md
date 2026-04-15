@@ -1,7 +1,5 @@
 # <b>Welcome to my GitHub</b>
 
----
-
 ### <b>About Me</b>
 
 <p>
