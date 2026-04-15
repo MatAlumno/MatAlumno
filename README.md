@@ -38,7 +38,6 @@ I'm always open to collaborating, improving my skills, and taking on new challen
 
 Important note: I know how to use these tools & languages, but I'm not a professional yet — I'm learning and improving every day.
 
----
 
 ### <u>💻 Programming Languages</u>
 <br>
@@ -51,8 +50,6 @@ Important note: I know how to use these tools & languages, but I'm not a profess
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </br>
-
----
 
 ### <u>📚 Frameworks, Platforms & Libraries</u>
 <br>
@@ -68,8 +65,6 @@ Important note: I know how to use these tools & languages, but I'm not a profess
 
 </br>
 
----
-
 ### <u>💾 Databases</u>
 <br>
 
@@ -78,8 +73,6 @@ Important note: I know how to use these tools & languages, but I'm not a profess
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 </br>
-
----
 
 ### <u>🖥 Operating Systems</u>
 <br>
@@ -91,8 +84,6 @@ Important note: I know how to use these tools & languages, but I'm not a profess
 
 </br>
 
----
-
 ### <u>🛠 Development Tools</u>
 <br>
 
@@ -102,8 +93,6 @@ Important note: I know how to use these tools & languages, but I'm not a profess
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </br>
-
----
 
 ### <u>💬 Communication</u>
 <br>
